@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.about-sec{
+	
+	height:650px;
+	width:1350px;
+	color:white;
+	background-image:url("image/sky.jpg");
+	background-size:covor;
+	
+	
+}
+
+.container{
+	
+	font-size:125%;
+	background:rgb(0,0,0);
+	background:rgba(0,0,0,0.5);
+	height:650px;
+}
+h1{
+	font-family: 'Raleway', sans-serif;
+	color:white;
+	padding:150px  100px 0px 150px;
+}
+
+h5{
+	font-family: 'Raleway', sans-serif;
+	color:white;
+	padding:15px  100px 0px 150px;
+}
+
+a{
+	font-family: 'Raleway', sans-serif;
+	margin:15px 15px 15px 140px;
+	color:white;
+	background-color:red;
+	text-decoration:none;
+	padding:5px 25px 5px 25px;
+	border-radius:2px 2px 2px 2px;
+}
+	
